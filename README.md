@@ -1,3 +1,5 @@
+### Made with ChatGPT
+
 # Mouse Controller for Xbox Controller
 
 This Python application allows you to control your mouse and scroll using an Xbox controller. It maps controller buttons to mouse actions, including left, right, and middle clicks, as well as scroll controls. The program also includes sensitivity and dead zone adjustments for smooth and customizable control.
@@ -25,6 +27,3 @@ Install the necessary Python libraries by running the following command:
 
 ```bash
 pip install pygame pynput
-
-
-'Made with ChatGPT'
