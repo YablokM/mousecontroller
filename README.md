@@ -25,3 +25,6 @@ Install the necessary Python libraries by running the following command:
 
 ```bash
 pip install pygame pynput
+
+
+'Made with ChatGPT'
