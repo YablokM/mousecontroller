@@ -16,7 +16,7 @@ This Python application allows you to control your mouse and scroll using an Xbo
 - Dependencies:
   - `pygame`
   - `pynput`
-  - `tkinter` (for GUI)
+  - `tkinter`
 
 ## Installation:
 
